@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "app/api/predict/route.py": {
+      "runtime": "python3.12",
+      "maxDuration": 30
+    }
+  }
+}
